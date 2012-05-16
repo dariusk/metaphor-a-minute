@@ -1,7 +1,7 @@
 Metaphor-a-Minute!
 ==========
 
-Requires node and npm. You also need a Twitter App access token, consumer key, and associated secrets: https://dev.twitter.com/apps/new
+Requires [node](http://nodejs.org/) and [npm](http://npmjs.org/). You also need a Twitter App access token, consumer key, and associated secrets: https://dev.twitter.com/apps/new
 
 Finally, you need a Wordnik API key, which you can apply for here: http://developer.wordnik.com/
 
