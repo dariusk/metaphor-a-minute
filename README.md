@@ -9,7 +9,7 @@ Finally, you need a Wordnik API key, which you can apply for here: http://develo
 
 > npm install node-restclient@0.0.1
 
-> npm install twit@0.1.5
+> npm install twit@1.1.6
 
 > npm install express@2.5.9
 
