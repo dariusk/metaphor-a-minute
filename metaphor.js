@@ -26,7 +26,7 @@ var getNounsURL = "http://api.wordnik.com/v4/words.json/randomWords?" +
                   "hasDictionaryDef=true&includePartOfSpeech=noun&limit=2&maxLength=12&" +
                   "api_key=______YOUR_API_KEY_HERE___________";
 
-var getAdjsURL =  "http://api.wordnik.com//v4/words.json/randomWords?" +
+var getAdjsURL =  "http://api.wordnik.com/v4/words.json/randomWords?" +
                   "hasDictionaryDef=true&includePartOfSpeech=adjective&limit=2&" + 
                   "minCorpusCount=100&api_key=______YOUR_API_KEY_HERE___________";
 
